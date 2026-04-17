@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 Hi, I'm Kranthi
 
-<!--
-**skvictory/skvictory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer | Java | Spring Boot | React | AI Builder
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+- 🧠 Building **KidGenius AI** (AI learning app for my kids)
+- 🤖 OpenAI + Spring Boot backend systems
+- 📱 iPad-friendly educational apps
+- ☁️ Cloud + scalable backend architecture
+
+---
+
+## 🧰 Tech Stack
+
+Java • Spring Boot • React • Next.js • PostgreSQL • OpenAI APIs • Docker • AWS
+
+---
+
+## 🔥 Featured Projects
+
+- KidGenius AI (AI for children learning)
+- AI Chatbot APIs (Spring Boot + OpenAI)
+- System Design & Backend Architecture projects
+
+---
+
+## 🎯 What I'm Building Towards
+
+AI Engineer | Senior Backend Engineer | Product Builder
+
+---
+
+## 📫 Contact
+([LinkedIn](https://www.linkedin.com/in/sarojakranthi-v-61181785/))
